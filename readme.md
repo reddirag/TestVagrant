@@ -1,5 +1,5 @@
 Prerequisites required:
-1. Maven needs be installed
+1. Maven needs to be installed
 
 Execution steps:
 1. Checkout the project from Git repository
